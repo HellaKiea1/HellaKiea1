@@ -29,11 +29,7 @@ I am currently transitioning into the world of programming. My approach is simpl
 
 ---
 
-### 📂 Learning Roadmap
-* 📂 **python-logic** — Algorithms and scripts.
-* 📂 **web-basics** — Practicing CSS and JS.
-* 📂 **docs-and-notes** — My study log.
-
+#
 ---
 
 ### 📫 Contact
