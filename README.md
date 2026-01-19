@@ -19,11 +19,12 @@ I’m a beginner programmer learning step by step. I use this GitHub to track my
 
 ---
 
-## 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HellaKiea1&show_icons=true&theme=flat&hide_border=true" height="150" />
-</p>
+## 📈 Activity
+*(GitHub stats will appear here once I have more public contributions!)*
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HellaKiea1&show_icons=true&theme=flat&hide_border=true" alt="HellaKiea1 Stats" height="150" />
+</p>
 ---
 
 
