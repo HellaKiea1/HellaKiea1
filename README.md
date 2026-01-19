@@ -1,63 +1,46 @@
 # 👋 Hello, I'm HellaKiea1
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Software%20Development&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Logic+with+Python;Mastering+Programming+Basics;Exploring+Web+Technologies;Consistency+Over+Speed" alt="Typing SVG" />
-  </a>
-</div>
+**Aspiring Developer** | Focused on logic, fundamentals, and consistent growth.
+*Currently learning Python, JS, and CSS to build a solid technical foundation.*
 
 ---
 
-## ⚡ System Status: Learning
-I am a beginning developer focusing on **logic**, **backend foundations**, and **clean code**. I use Python for logic and Web technologies to bring my ideas to life. This GitHub is my lab for experiments and growth.
+## ✨ About Me
+I’m a beginner programmer learning step by step. I use this GitHub to track my progress, store my experiments, and document my learning path.
 
-* 🐍 **Primary focus:** Python algorithms and system logic.
-* 🌐 **Secondary focus:** Understanding the Web (HTML/CSS/JS).
-* 🛠️ **Workflow:** Learning the power of Git and command-line tools.
-* 🎯 **Mantra:** "No rush. Just consistency."
+> **Mantra:** No rush. Just consistency.
 
 ---
 
-## 🧰 Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux,bash&theme=dark" />
-</div>
+## 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,css,html,git,github,vscode,markdown&theme=dark" />
+</p>
 
 ---
 
-## 📊 Analytics
-<div align="center">
-  <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=HellaKiea1&show_icons=true&theme=tokyonight&hide_border=true" alt="HellaKiea1 Stats" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HellaKiea1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </p>
-</div>
+## 🎯 Current Focus
+- **Programming Logic:** Mastering Python fundamentals.
+- **Web Basics:** Understanding how HTML, CSS, and JS work together.
+- **Workflow:** Getting comfortable with Git, GitHub, and the command line.
+- **Practice:** Building small, functional projects to test my knowledge.
+
+---
+
+## 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HellaKiea1&show_icons=true&theme=flat&hide_border=true" height="150" />
+</p>
 
 ---
 
 ## 📂 Repositories
-- 🐍 **python-logic** — Scripts, automation, and core programming tasks.
-- 🧪 **web-foundations** — Practical use of HTML, CSS, and JS.
-- 📘 **study-notes** — My technical documentation and learning path.
+- 📘 **learning-notes** — Concepts, terminology, and study logs.
+- 🐍 **python-practice** — Small scripts and logic exercises.
+- 🧪 **web-foundations** — HTML/CSS/JS experiments.
 
 ---
 
-## 📫 Get in Touch
-<div align="left">
-  <a href="https://github.com/HellaKiea1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=60&section=footer" width="100%"/>
-</div>
+## 📫 Contact
+- **GitHub:** [HellaKiea1](https://github.com/HellaKiea1)
+- **Email:** *your-email@example.com*
